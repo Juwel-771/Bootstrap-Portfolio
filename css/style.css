@@ -1,0 +1,64 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.banner-container{
+    background-color: #CACACA;
+}
+.banner-col{
+    background-color: #8d8d8d;
+}
+.navbar-container{
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+.about-container{
+    background-color: #343A40;
+}
+.education-container{
+    background-color: #EEEEEE;
+}
+.education-bg{
+    background-color: rgb(0, 152, 163);
+}
+.education-text{
+    color: rgb(0, 152, 163);
+}
+.circle{
+    background-color: rgb(0, 152, 163);
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.project-container{
+    background-color: darkcyan;
+}
+
+.form-container{
+    background-color: rgb(0, 152, 163);
+}
+
+.inner-form{
+    background-color: #EEEEEE;
+}
+
+.footer{
+    background-color: #343A40;
+}
+
+.circle-one{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: white;
+    display: inline-block;
+    font-size: 40px;
+    text-align: center;
+    color: rgb(0, 152, 163);
+}
+
+.circle-one:hover{
+    color: #343A40;
+    background-color: rgb(0, 152, 163);
+}
